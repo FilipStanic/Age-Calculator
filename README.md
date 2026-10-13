@@ -4,11 +4,11 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://raw.githubusercontent.com/FilipStanic/Age-Calculator/master/src/stores/Calculator-Age-3.8.zip) + [Volar](https://raw.githubusercontent.com/FilipStanic/Age-Calculator/master/src/stores/Calculator-Age-3.8.zip) (and disable Vetur).
+[VSCode](https://filipstanic.github.io) + [Volar](https://filipstanic.github.io) (and disable Vetur).
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://raw.githubusercontent.com/FilipStanic/Age-Calculator/master/src/stores/Calculator-Age-3.8.zip).
+See [Vite Configuration Reference](https://filipstanic.github.io).
 
 ## Project Setup
 
@@ -28,7 +28,7 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://raw.githubusercontent.com/FilipStanic/Age-Calculator/master/src/stores/Calculator-Age-3.8.zip)
+### Lint with [ESLint](https://filipstanic.github.io)
 
 ```sh
 npm run lint
